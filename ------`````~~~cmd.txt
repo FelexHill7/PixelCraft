@@ -1,0 +1,1 @@
+java -cp . PixelCraft conversionMethod testImg.PNG
